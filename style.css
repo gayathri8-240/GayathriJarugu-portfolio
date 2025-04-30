@@ -42,15 +42,8 @@ h3 {
     display: inline-block;
 }
 
-table tr:hover {
-    background-color: #e6f0ff;
-}
-
 p, ul, table {
     margin-top: 10px;
-}
-table tr:hover {
-    background-color: #e6f0ff;
 }
 
 table {
